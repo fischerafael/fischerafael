@@ -74,12 +74,4 @@ I design, build, and scale production-grade applications end-to-end — from bac
 
 ---
 
-## ✍️ Latest Articles & Content
-
-- [AI Engineering in Practice – Manning Publications](https://www.manning.com/books/ai-engineering-in-practice)  
-- [LinkedIn Posts on AI & Software Architecture](https://linkedin.com/in/fischerafael)  
-- [YouTube – AI & Dev Productivity](https://youtube.com/@fischerafael)  
-
----
-
 ⭐️ From [rafaelsanfischer](https://github.com/rafaelsanfischer)
