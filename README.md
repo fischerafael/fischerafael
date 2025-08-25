@@ -68,10 +68,10 @@ I design, build, and scale production-grade applications end-to-end — from bac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsanfischer&show_icons=true&theme=radical" height="160" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsanfischer&theme=radical" height="160" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fischerafael&show_icons=true&theme=radical" height="160" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fischerafael&theme=radical" height="160" alt="streak"/>
 </div>
 
 ---
 
-⭐️ From [rafaelsanfischer](https://github.com/rafaelsanfischer)
+⭐️ From [rafaelsanfischer](https://github.com/fischerafael)
